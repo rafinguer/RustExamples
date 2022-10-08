@@ -1,3 +1,5 @@
 *.pdb
+*.exe
+**/.vscode
 **/target
 **/release
