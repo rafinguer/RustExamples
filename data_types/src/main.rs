@@ -110,11 +110,4 @@ fn main() {
     println!("age: {}", tuple_example2.1);
     println!("salary: {}", tuple_example2.2);
     println!("is_married: {}", tuple_example2.3);
-
-
-
-
-
-
-
 }
