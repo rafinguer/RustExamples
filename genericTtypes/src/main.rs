@@ -32,5 +32,7 @@ fn main() {
         y: 3,     // integer  
     };
 
-    println!("Hello, world!");
+    println!("Point1: ({}, {})", point1.x, point1.y);
+    println!("Point2: ({}, {})", point2.x, point2.y);
+    println!("Point3: ({}, {})", point3.x, point3.y);
 }
